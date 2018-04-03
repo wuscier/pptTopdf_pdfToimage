@@ -1,0 +1,10 @@
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\bin\Debug\Acrobat.pdf2image.exe
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\bin\Debug\Acrobat.pdf2image.pdb
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\bin\Debug\Interop.Acrobat.dll
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\obj\Debug\Acrobat.pdf2image.csprojResolveAssemblyReference.cache
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\obj\Debug\Interop.Acrobat.dll
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\obj\Debug\Acrobat.pdf2image.csproj.ResolveComReference.cache
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\obj\Debug\Acrobat.pdf2image.csproj.CoreCompileInputs.cache
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\obj\Debug\Acrobat.pdf2image.exe
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\obj\Debug\Acrobat.pdf2image.pdb
+E:\old\r&d\github2\Acrobat.pdf2image\Acrobat.pdf2image\bin\Debug\Acrobat.pdf2image.exe.config
